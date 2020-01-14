@@ -1,0 +1,16 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.enabled": true,
+    "vim.useSystemClipboard": true,
+    // "python.pythonPath": "C:\\devapps\\Anaconda3\\python.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "python.condaPath": "C:\\devapps\\Anaconda3\\Scripts\\conda.exe",
+    "cSpell.enabled": false,
+    "python.pythonPath": "C:\\devapps\\Anaconda3\\envs\\tfdy\\python.exe",
+    "python.dataScience.jupyterServerURI": "local",
+    "python.autoComplete.extraPaths": [
+        "C:\\devapps\\vscode-intelli"
+    ],
+    "editor.wordWrapColumn": 100,
+}
